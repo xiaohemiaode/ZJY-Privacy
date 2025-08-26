@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,8 +12,8 @@
 <body>
 
 <h1>Privacy Policy for ZJY Work Plane</h1>
-<p><strong>Effective Date:</strong> [Current Date]</p>
-<p><strong>Last Updated:</strong> [Current Date]</p>
+<p><strong>Effective Date:</strong> [2025/02/26]</p>
+<p><strong>Last Updated:</strong> [2025/02/26]</p>
 
 <h2>1. Introduction</h2>
 <p>ZJY Development Team ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our Revit add-in "ZJY Work Plane" (the "Application") handles data when you use our software.</p>
