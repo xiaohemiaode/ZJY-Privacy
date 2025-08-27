@@ -106,7 +106,7 @@
 <h2>10. Contact Information</h2>
 <div class="contact-info">
     <p><strong>ZJY Development Team</strong></p>
-    <p><strong>Email:</strong> xiaohemitse@foxmail.com</p>
+    <p><strong>Email:</strong> zjytech@foxmail.com</p>
     <p><strong>Support Hours:</strong> Monday-Friday, 9:00 AM - 6:00 PM (GMT+8)</p>
     <p>
         If you have any questions about this Privacy Policy or our data practices, 
